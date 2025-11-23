@@ -13,11 +13,11 @@
 ![Halaman Tabel Biodata](public/5.png)
 > Catatan: Ini adalah Tabel Biodata.
 > 
-![Halaman Tabel Pendidikan](public/6.png)
+![Halaman Tabel Keahlian](public/6.png)
+> Catatan: Ini adalah Tabel Keahlian.
+
+![Halaman Tabel Pendidikan](public/7.png)
 > Catatan: Ini adalah Tabel Pendidikan.
 
-![Halaman Tabel Pengalaman](public/7.png)
+![Halaman Tabel Pengalaman](public/8.png)
 > Catatan: Ini adalah Tabel Pengalaman.
-
-![Halaman Tabel Keahlian](public/8.png)
-> Catatan: Ini adalah Tabel Keahlian
