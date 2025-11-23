@@ -1,3 +1,9 @@
+# UTS WEB FRAMEWORK
+
+NAMA: Daffa Naufal Fadhil
+
+NIM: 2330521011
+
 ![Halaman Biodata](public/1.png)
 > Catatan: Ini adalah halaman Biodata.
 
