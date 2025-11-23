@@ -4,6 +4,8 @@ NAMA: Daffa Naufal Fadhil
 
 NIM: 2330521011
 
+![(https://placehold.co/600x400 .jpg)
+
 ![Halaman Biodata](public/1.png)
 > Catatan: Ini adalah halaman Biodata.
 
