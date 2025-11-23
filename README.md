@@ -4,10 +4,20 @@
 ![Halaman Pendidikan](public/2.png)
 > Catatan: Ini adalah halaman Pendidikan.
 
-![Halaman Keahlian](public/3.png)
-![Halaman Pengalaman](public/4.png)
-![Halaman Tabel Biodata](public/5.png)
-![Halaman Tabel Pendidikan](public/6.png)
-![Halaman Tabel Keahlian](public/7.png)
-![Halaman Tabel Pengalaman](public/8.png)
+![Halaman Pengalaman](public/3.png)
+> Catatan: Ini adalah halaman Pengalaman.
 
+![Halaman Keahlian](public/4.png)
+> Catatan: Ini adalah halaman Keahlian.
+
+![Halaman Tabel Biodata](public/5.png)
+> Catatan: Ini adalah Tabel Biodata.
+> 
+![Halaman Tabel Pendidikan](public/6.png)
+> Catatan: Ini adalah Tabel Pendidikan.
+
+![Halaman Tabel Pengalaman](public/7.png)
+> Catatan: Ini adalah Tabel Pengalaman.
+
+![Halaman Tabel Keahlian](public/8.png)
+> Catatan: Ini adalah Tabel Keahlian
